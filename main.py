@@ -5,5 +5,5 @@ def T(matrix: list):
     return matrix
 
 
-A = [[0, 2, 1], [1, 0, 3], [0, 1, 1]]
-print(T(A))
+B = [[0, 2, 1], [1, 0, 3], [0, 1, 1]]
+print(T(B))
